@@ -1,4 +1,5 @@
 #Harjoitus if/elif/else
+#If/elif kuuluu aina yhteen. Eli elif ehto vaatii aina If.
 
 Hyttiluokka=input("Mikä on laivan hyttiluokka?")
 if Hyttiluokka == "LUX":
