@@ -31,3 +31,9 @@ Nämä tehtävät oli tuskien taival. Minulla meni aikaa hahmottaa, mikä rakenn
 
 4.5. Käytin tehtävässä samaa logiikkaa kuin tehtävässä 3, ja sain koodin toimimaan helposti nyt kun olin ensin taistellut tehtävä 3 kanssa pitkään.
 4.6. Yritin aloittaa ratkaisun muodostamista.
+
+#Moduuli 5
+Teht. 1. Katsoin esimerkkitehtäviä ja käytin for rakennetta kuten pyydettiin tehtävän ratkaisuun.
+Teht.2 Katsoin esimerkkitehtäviä ja käytin for rakennetta.
+Teht.3. Käytin range rakennetta. Pyysin tekoälyltä apua, miten luodaan kaava alkuluvun määrittämiseen.
+Teht4. Tämä oli hyvä harjoitus for ja for/in rakenteen harjoitteluun. Hieman pyörittelin ennen kuin meni oikein.

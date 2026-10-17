@@ -1,23 +1,25 @@
-print("- - - - - Tervetuloa laskinohjelmaan- - - - -")
+print("\n- - - - - TERVETULOA LASKINOHJELMAAN- - - - -")
 
 # Yksinkertainen toistorakenne
 while True:
-
-    print("Valitse mitä laskintoimintoa haluat käyttää:")
-    print("A: Yhteenlasku, B: Vähennyslasku, C: Kertolasku, D: Jakolasku, Q: Lopeta ohjelma")
+    #Infotaan käyttäjälle miten ohjelma toimii print-tulosteilla
+    print("\nValitse mitä laskintoimintoa haluat käyttää:")
+    print("A: Yhteenlasku\nB: Vähennyslasku\nC: Kertolasku\nD: Jakolasku\nQ: Lopeta ohjelma\n")
     valinta= input("Anna valintasi: ").upper()
 
-#Tarkistetaan ehtoa
+#Tarkistetaan ehtoa: Kysytään miytä laskutoimitusta hän haluaa käyttää?
     if valinta=="Q":
         print("Poistutaan....")
         break
 
-    # Alustetaan muuttujat?
+    
+    # Kysytään luvut laskua varteb
     a = float(input("Anna ensimmmäinen luku: "))
     b = float(input("Anna toinen luku: "))
 
+
     
-    #Tarkistetaan ehtoa
+    #Suoritetaan haluttu laskutoimitus(8({88[]}))
     if valinta == "A":
         print(f"Lukujen {a} ja {b} summa on {a+b}.")
         
@@ -25,13 +27,13 @@ while True:
         print(f"Lukujen {a} ja {b} erotus on {a-b}.")
 
     elif valinta == "C":
-        print(f"Lukujen {a} ja{b} tulo on {a*b}.")
+        print(f"Lukujen {a} ja {b} tulo on {a*b}.")
 
     elif valinta == "D":
-        print(f"Lukujen {a} ja{b} osamäärä on {a/b}.")
+        print(f"Lukujen {a} ja {b} osamäärä on {a/b}.")
         
-    else:
-        print("Virheellinen valinta")
+else:
+    print("Virheellinen valinta")
 
 print("Ohjelma päättynyt.")
 

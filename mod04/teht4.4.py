@@ -1,11 +1,10 @@
 import random
 #  arvo numero väliltä 1_10 ja kysy
+# Ohjeessa: tietokone ei saa vaihtaa lukuaan arvontojen välissä-> ei saa olla while loopin sisällä
 
 print("- - - TERVETULOA OHJELMAAN- - -")
 
 oikea=random.randint(1, 10)
-
-
 
 while True:
     
@@ -15,7 +14,6 @@ while True:
         
         print("Liian pieni arvaus")
 
-            
             
     elif oikea < arvaus:
         arvaus =input("Anna luku välillä 1-10:")
