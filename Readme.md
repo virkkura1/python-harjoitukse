@@ -37,3 +37,14 @@ Teht. 1. Katsoin esimerkkitehtäviä ja käytin for rakennetta kuten pyydettiin 
 Teht.2 Katsoin esimerkkitehtäviä ja käytin for rakennetta.
 Teht.3. Käytin range rakennetta. Pyysin tekoälyltä apua, miten luodaan kaava alkuluvun määrittämiseen.
 Teht4. Tämä oli hyvä harjoitus for ja for/in rakenteen harjoitteluun. Hieman pyörittelin ennen kuin meni oikein.
+
+#Kertaustehtävät. Olisin toivonut näihin tehtäviin  enemmän vastausaikaa, kuin viikon, koska tehtäviä oli tavallista isompi määrä.
+1. If -else oli kivan yksinkertainen etehtävä, joskin tässäkin saa olla tarkkana muutujien nimeämisen kanssa, että ohjelma ymmärtää.
+2. if-elif-else käyttö oli jo vähän unohtunut. myös menen aina jotenkin jäähän, kun tehtävässä on jakolasku, joten yritän kerrata tätä.
+3. Yritin liian monimutkaista ratkaisua. Jotenkin halusin tehdä kysymyksen, onko tuote valmistettu? mutta ohjeessa ei ole sitä.
+4. Tämä oli hyvä harjoitus silmukkarakenteen kertaamiseen.
+5. Sain listarakenteen toimimaan pilkkujen kanssa. Kysyin apua tekoälyltä, miten saan pilkut poissa ja tekoäly ehdotti join-rakennetta, joka korjasikin asian. Yritin myös Bonus tehtävää: Muuta ohjelmaa niin, että silmukka loppuu myös, jos käyttäjä syöttää saman sanan kahdesti peräkkäin. En osannut käyttää len tähän, tekoäly auttoi  tässä.
+6. Tämä oli hieman helpompi harjoitus, tuli kerrattua sort käsky
+7. Tässä tehtävässä jouduin turvautumaan tekoälyyn miten käyttää len-komento
+8.Tämä on samanlainen kuin edellinen tehtävä, mutta vaihdoinlaskuriin joka kierroksella 1:n sijaan kustannuksen arvo
+9.Tässä tehtaan simulointotehtävässä kysymykset yksinkertaistivat tehtävää, vaikka ne tehtiin "tuplana". Range toimintoa ei tullut harjoiteltua muissa tehtävissä, tähän tarvitsin tekoälyä.
