@@ -48,3 +48,17 @@ Teht4. Tämä oli hyvä harjoitus for ja for/in rakenteen harjoitteluun. Hieman 
 7. Tässä tehtävässä jouduin turvautumaan tekoälyyn miten käyttää len-komento
 8.Tämä on samanlainen kuin edellinen tehtävä, mutta vaihdoinlaskuriin joka kierroksella 1:n sijaan kustannuksen arvo
 9.Tässä tehtaan simulointotehtävässä kysymykset yksinkertaistivat tehtävää, vaikka ne tehtiin "tuplana". Range toimintoa ei tullut harjoiteltua muissa tehtävissä, tähän tarvitsin tekoälyä.
+
+#Moduuli 6 
+
+Tehtävä 1: Nopanheitto kutoseen asti. Kertasin random. randint tehtäviä, jotta sain palautetua noppa asiat. Kirjoitin parametrittoman funktion, joka palauttaa arvon return-sanalla, ja ymmärsin, ettei arvo päädy pääohjelman käyttöön ilman return palautusta. Opin myös, että funktiota kutsutaan kirjoittamalla sen nimi ja sulkeet, ja että sen palauttama arvo pitää tallentaa muuttujaan.
+
+Tehtävä 2: Monitahkoinen noppa.Välitin funktiolle tietoa parametrin avulla, jolloin sama funktio toimii minkä tahansa kokoiselle nopalle, kunhan parametria käytetään funktion sisällä. Ymmärsin, että funktion parametri on olemassa vain funktion sisällä ja on eri asia kuin pääohjelman muuttuja, ja lisäksi opin, ettei omia muuttujia kannata nimetä Pythonin valmiiden funktioiden, kuten max, mukaan.
+
+Tehtävä 3: Gallonat litroiksi. Opin kirjoittamaan funktion, joka ottaa parametrina luvun, laskee sillä ja palauttaa tuloksen, sekä nimeämään funktion ja parametrin niin, että niiden tarkoitus näkyy nimestä. 
+
+Tehtävä 4. Tämä tehtävä oli samanlainen kuin esimerkki dokumenteissa, joten se oli siksi helppo
+
+Tehtävä 5. Huomasin, että tehtävänantoon on keskityttävä huolella, jotta ei ala miettimään vääriä ratkaisuja. 
+
+Tehtävä6. Tässä tehtävässä harmaita hiuksia aiheutti senttien muutaminen metreiksi ja se, että tehtävässä oli kaksi parametria ja lisäksi muuttuja. Vaikea tehtävä, ja jouduin käymään vaiheita läpi tekoälyn kanssa.
